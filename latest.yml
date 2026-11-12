@@ -1,0 +1,8 @@
+version: 1.8.0
+files:
+  - url: Obsidyen-Setup-1.8.0.exe
+    sha512: HlvmtqAQQ5C/HLhkjQG4IIgsc7Dxf+KmWclLlQEInM0oRBJVp/GHOGpQROG5W9heF0pNmCSJK08UpQRj0ncBdw==
+    size: 82033315
+path: Obsidyen-Setup-1.8.0.exe
+sha512: HlvmtqAQQ5C/HLhkjQG4IIgsc7Dxf+KmWclLlQEInM0oRBJVp/GHOGpQROG5W9heF0pNmCSJK08UpQRj0ncBdw==
+releaseDate: '2026-11-12T18:12:54.342Z'

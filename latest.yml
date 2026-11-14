@@ -1,0 +1,8 @@
+version: 1.9.0
+files:
+  - url: Obsidyen-Setup-1.9.0.exe
+    sha512: EgkS5aw63q8C7t6d1F3m01KKVMJSat5KMwhz69d1MWHsVwfBBEi5D8JUjf2M0HdgHYSGkgMp3wG8r8D8LQIL/w==
+    size: 82041650
+path: Obsidyen-Setup-1.9.0.exe
+sha512: EgkS5aw63q8C7t6d1F3m01KKVMJSat5KMwhz69d1MWHsVwfBBEi5D8JUjf2M0HdgHYSGkgMp3wG8r8D8LQIL/w==
+releaseDate: '2026-11-14T08:49:30.410Z'
